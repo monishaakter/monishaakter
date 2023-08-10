@@ -1,4 +1,4 @@
-![logo](cove_Pic.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Monisha Akter Asha</h1>
 <h3 align="center"> A Code Lover </h3>
