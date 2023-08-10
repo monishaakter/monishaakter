@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/monishaakter/monishaakter/blob/main/Monisha.jpg)
+![Logo](https://github.com/monishaakter/monishaakter/blob/main/Screenshot%202023-08-10%20154926.png)
 <h1 align="center">Hi 👋, I'm Monisha Akter Asha</h1>
 <h3 align="center"> I love My cat Mampo </h3>
 
